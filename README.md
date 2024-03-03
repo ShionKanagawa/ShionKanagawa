@@ -1,10 +1,10 @@
-[![Shion's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ShirokaneShizuku&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&theme=graywhite&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Shion's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ShionKanagawa&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&theme=graywhite&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Goodbye 👋 I'm not Shion :)
 
 - 🌱 A Real Noob, Can do nothing meaningful.
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ShirokaneShizuku&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10"> </picture>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ShionKanagawa&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10"> </picture>
 
 ### 🖥️ Environment
 
