@@ -1,4 +1,4 @@
-[![Shion's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=ShionKanagawa&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&theme=catppuccin_latte&theme=graywhite&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Shion's GitHub stats](https://github-stats-extended.vercel.app/api?username=ShionKanagawa)](https://github.com/stats-organization/github-stats-extended)
 
 ### Goodbye 👋 I'm not Shion :)
 
